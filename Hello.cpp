@@ -1,4 +1,8 @@
 //Teste do git
+int soma(int a, int b) {
+  return a + b;
+}
+
 int main {
 	printf("Thiago");
 	printf("sherfis me da ponto");
