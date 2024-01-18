@@ -4,5 +4,6 @@ int main {
 	int x = 0;
 	printf("oi");
 	int g = 5;
+	return 0;
 
 }
