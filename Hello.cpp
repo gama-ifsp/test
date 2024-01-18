@@ -9,6 +9,7 @@ int main {
 	int x = 0;
 	printf("oi");
 	int g = 5;
+  printf("hotfix");
 	return 0;
 
 }
