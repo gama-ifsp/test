@@ -4,8 +4,7 @@ int soma(int a, int b) {
 }
 
 int main {
-	printf("Thiago");
-	printf("sherfis me da ponto");
+	printf("Bianca");
 	int x = 0;
 	printf("oi");
 	int g = 5;
